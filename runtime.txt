@@ -1,2 +1,2 @@
 python-3.10.8
-gunicorn app:app & python3 main.py
+gunicorn app:app & python3 bot.py
